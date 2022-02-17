@@ -10,7 +10,7 @@ li_votes = 0
 otooley_votes = 0
 
 # Set and open file from file path
-file_path = os.path.join('/Users/minoperic/Data Analytics/Homework/python-challenge/PyPoll/Resources/election_data.csv')
+file_path = os.path.join('/Resources/election_data.csv')
 
 # Set, open and read .csv file from file path
 with open(file_path, newline='') as csvfile:
