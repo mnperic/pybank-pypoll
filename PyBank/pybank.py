@@ -13,7 +13,7 @@ greatest_decrease = 0
 greatest_decrease_month = 0
 
 # Set and open file from file path
-file_path = os.path.join('/Users/minoperic/Data Analytics/Homework/python-challenge/PyBank/Resources/budget_data.csv')
+file_path = os.path.join('/Resources/budget_data.csv')
 
 # Set, open and read .csv file from file path
 with open(file_path, newline='') as csvfile:
